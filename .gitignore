@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pt
+outputs/
+*.mp4
+*.avi
+!assets/demo.gif
+.DS_Store
+.streamlit/secrets.toml
